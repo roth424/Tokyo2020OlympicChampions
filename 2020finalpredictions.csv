@@ -1,0 +1,140 @@
+NOC,Country,Year,Golds,Silvers,Bronzes,Total
+USA,United States,2020,42,39,29,110
+RUS,Russia,2020,25,22,29,76
+CHN,China,2020,24,16,16,56
+GER,Germany,2020,16,14,20,50
+GBR,UK,2020,11,10,11,32
+FRA,France,2020,7,10,11,28
+AUS,Australia,2020,6,10,11,27
+ITA,Italy,2020,9,8,8,25
+JPN,Japan,2020,9,7,9,25
+KOR,South Korea,2020,8,8,7,23
+ROU,Romania,2020,6,7,9,22
+UKR,Ukraine,2020,5,5,10,20
+CUB,Cuba,2020,6,5,8,19
+HUN,Hungary,2020,8,5,6,19
+CAN,Canada,2020,3,6,9,18
+BLR,Belarus,2020,2,5,8,15
+BUL,Bulgaria,2020,2,5,5,12
+KAZ,Kazakhstan,2020,3,3,5,11
+YUG,Serbia,2020,3,3,5,11
+KEN,Kenya,2020,3,4,3,10
+ESP,Spain,2020,2,4,3,9
+SWE,Sweden,2020,2,4,3,9
+AZE,Azerbaijan,2020,1,2,5,8
+BRA,Brazil,2020,2,2,4,8
+CZE,Czech Republic,2020,2,2,4,8
+JAM,Jamaica,2020,1,3,2,6
+BWI,Burkina Faso,2020,2,1,2,5
+EUA,Ethiopia,2020,2,1,2,5
+IOP,Individual Olympic Athletes,2020,2,1,2,5
+LIB,Lebanon,2020,2,1,2,5
+NED,Netherlands,2020,2,1,2,5
+PHI,Philippines,2020,2,1,2,5
+POL,Poland,2020,2,1,2,5
+POR,Portugal,2020,2,1,2,5
+PRK,North Korea,2020,2,1,2,5
+PUR,Puerto Rico,2020,2,1,2,5
+QAT,Qatar,2020,2,1,2,5
+RU1,South Africa,2020,2,1,2,5
+SIN,Singapore,2020,2,1,2,5
+TCH,Czech Republic,2020,2,1,2,5
+TRI,Taiwan,2020,2,1,2,5
+VIE,Vietnam,2020,2,1,2,5
+ZZX,Zimbabwe,2020,2,1,2,5
+DEN,Denmark,2020,1,1,2,4
+ETH,Ethiopia,2020,2,1,1,4
+IRI,Iran,2020,2,1,1,4
+SUI,Switzerland,2020,1,2,1,4
+SVK,Slovakia,2020,1,2,1,4
+FIN,Finland,2020,1,0,2,3
+GEO,Georgia,2020,1,0,2,3
+GRE,Greece,2020,1,1,1,3
+MEX,Mexico,2020,0,1,2,3
+NIG,Niger,2020,0,1,2,3
+NOR,Norway,2020,1,1,1,3
+RSA,South Africa,2020,0,2,1,3
+SRB,Serbia,2020,0,1,2,3
+THA,Thailand,2020,1,1,1,3
+TUR,Turkey,2020,1,1,1,3
+BEL,Belgium,2020,0,0,2,2
+CRO,Croatia,2020,1,0,1,2
+LTU,Lithuania,2020,1,0,1,2
+UZB,Uzbekistan,2020,0,0,2,2
+ARG,Argentina,2020,0,0,1,1
+ARM,Armenia,2020,0,0,1,1
+AUT,Austria,2020,0,1,0,1
+EST,Estonia,2020,0,0,1,1
+INA,Indonesia,2020,0,1,0,1
+IRL,Ireland,2020,0,0,1,1
+LAT,Latvia,2020,0,1,0,1
+MAR,Morocco,2020,0,0,1,1
+MGL,Mongolia,2020,0,0,1,1
+NGR,Nigeria,2020,0,0,1,1
+SLO,Slovenia,2020,0,0,1,1
+TPE,Taiwan,2020,0,0,1,1
+ALG,Algeria,2020,0,0,0,0
+BAH,Bahamas,2020,0,0,0,0
+BAR,Barbados,2020,0,0,0,0
+BDI,Burundi,2020,0,0,0,0
+BER,Bermuda,2020,0,0,0,0
+BOT,Botswana,2020,0,0,0,0
+BRN,Bahrain,2020,0,0,0,0
+CHI,Chile,2020,0,0,0,0
+CIV,Ivory Coast,2020,0,0,0,0
+CMR,Cameroon,2020,0,0,0,0
+COL,Colombia,2020,0,0,0,0
+CRC,Costa Rica,2020,0,0,0,0
+CYP,Cyprus,2020,0,0,0,0
+DJI,Djibouti,2020,0,0,0,0
+DOM,Dominican Republic,2020,0,0,0,0
+ECU,Ecuador,2020,0,0,0,0
+EGY,Egypt,2020,0,0,0,0
+ERI,Eritrea,2020,0,0,0,0
+GAB,Gabon,2020,0,0,0,0
+GHA,Ghana,2020,0,0,0,0
+GRN,Grenada,2020,0,0,0,0
+GUA,Guatemala,2020,0,0,0,0
+GUY,Guyana,2020,0,0,0,0
+HAI,Haiti,2020,0,0,0,0
+HKG,China,2020,0,0,0,0
+IND,India,2020,0,0,0,0
+IRQ,Iraq,2020,0,0,0,0
+ISL,Iceland,2020,0,0,0,0
+ISR,Israel,2020,0,0,0,0
+ISV,"Virgin Islands, US",2020,0,0,0,0
+KGZ,Kyrgyzstan,2020,0,0,0,0
+KSA,Saudi Arabia,2020,0,0,0,0
+KUW,Kuwait,2020,0,0,0,0
+LUX,Luxembourg,2020,0,0,0,0
+MAS,Malaysia,2020,0,0,0,0
+MDA,Moldova,2020,0,0,0,0
+MKD,Macedonia,2020,0,0,0,0
+MNE,Montenegro,2020,0,0,0,0
+MOZ,Mozambique,2020,0,0,0,0
+MRI,Mauritius,2020,0,0,0,0
+NAM,Namibia,2020,0,0,0,0
+NZL,New Zealand,2020,0,0,0,0
+PAK,Pakistan,2020,0,0,0,0
+PAN,Panama,2020,0,0,0,0
+PAR,Paraguay,2020,0,0,0,0
+PER,Peru,2020,0,0,0,0
+SCG,Serbia,2020,0,0,0,0
+SEN,Senegal,2020,0,0,0,0
+SGP,Seychelles,2020,0,0,0,0
+SRI,Sri Lanka,2020,0,0,0,0
+SUD,Sudan,2020,0,0,0,0
+SUR,Suriname,2020,0,0,0,0
+SYR,Syria,2020,0,0,0,0
+TAN,Tanzania,2020,0,0,0,0
+TGA,Tonga,2020,0,0,0,0
+TJK,Tajikistan,2020,0,0,0,0
+TOG,Togo,2020,0,0,0,0
+TTO,Trinidad,2020,0,0,0,0
+TUN,Tunisia,2020,0,0,0,0
+UAE,United Arab Emirates,2020,0,0,0,0
+UGA,Uganda,2020,0,0,0,0
+URU,Uruguay,2020,0,0,0,0
+VEN,Venezuela,2020,0,0,0,0
+ZAM,Zambia,2020,0,0,0,0
+ZIM,Zimbabwe,2020,0,0,0,0
